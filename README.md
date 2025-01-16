@@ -13,8 +13,8 @@ Grâce à une interface intuitive et des fonctionnalités puissantes, **Resourcy
 ---
 
 ## Auteur
-Développé par **Mohamed Kassem Abbassi**  
-Pour toute suggestion ou question, contactez-moi à kassemabbassi5@gmail.com.
+Développée par **Mohamed Kassem Abbassi**  et **Achraf Laamari**
+
 
 ---
 
